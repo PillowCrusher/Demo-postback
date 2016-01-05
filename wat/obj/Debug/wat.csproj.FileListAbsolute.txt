@@ -1,0 +1,6 @@
+C:\Users\Jp\Documents\GitHub\Demo-postback\wat\bin\wat.dll.config
+C:\Users\Jp\Documents\GitHub\Demo-postback\wat\bin\wat.dll
+C:\Users\Jp\Documents\GitHub\Demo-postback\wat\bin\wat.pdb
+C:\Users\Jp\Documents\GitHub\Demo-postback\wat\obj\Debug\wat.csprojResolveAssemblyReference.cache
+C:\Users\Jp\Documents\GitHub\Demo-postback\wat\obj\Debug\wat.dll
+C:\Users\Jp\Documents\GitHub\Demo-postback\wat\obj\Debug\wat.pdb
